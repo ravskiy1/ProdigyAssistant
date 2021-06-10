@@ -1,5 +1,8 @@
 {
   "latest": "1.0",
   "updateurl": "https://github.com/ravskiy1/ProdigyAssistant/blob/main/ProdigyAssistant.luac?raw=true",
-  "premium": "Keith_Flint,Ruslan_Ravskiy"
+  "premium": [
+              "Keith_Flint",
+              "Ruslan_Ravskiy"
+             ]
 }
